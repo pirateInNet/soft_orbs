@@ -4,8 +4,8 @@ A soft, dreamy third-person orb-collecting game made with Rust and Macroquad.
 
 > **About this project:** The game was AI-generated. I made it just to see an example running on my hardware—and to find out what this old laptop can handle.
 
-## Gameplay video
-[Watch the gameplay video](soft_orbs.mkv)
+## sceernshot
+[image](/soft_orgs.png)
 
 ## How to play
 
@@ -29,6 +29,8 @@ With Rust and Cargo installed, run:
 ```sh
 cargo run --release
 ```
+
+- the whole binary size is 1.6 mb.
 
 ## My hardware
 

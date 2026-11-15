@@ -5,7 +5,7 @@ A soft, dreamy third-person orb-collecting game made with Rust and Macroquad.
 > **About this project:** The game was AI-generated. I made it just to see an example running on my hardware—and to find out what this old laptop can handle.
 
 ## sceernshot
-[image](/soft_orgs.png)
+[image](/soft_orbs.png)
 
 ## How to play
 
